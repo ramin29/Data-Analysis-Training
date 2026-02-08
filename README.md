@@ -37,14 +37,13 @@ The course emphasized the integration of coding, analytical reasoning, and busin
 
 The repository is organized to reflect the progression of the course:
 
-- Assignments & Exercises
+Assignments & Exercises
 
-  - Data exploration and cleaning
+- Data exploration and cleaning
   
-  - Visualization techniques for business analytics
-  
-  - Descriptive and predictive modeling
-  - 
+- Visualization techniques for business analytics
+
+- Descriptive and predictive modeling
 
 Each notebook includes code, interpretation, and commentary, emphasizing not only what was done, but why it matters from a business perspective.
 
